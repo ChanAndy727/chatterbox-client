@@ -39,11 +39,8 @@ var Parse = {
 
 };
 
-<<<<<<< HEAD
-=======
 // var message = {
 //   username: 'shawndrost',
 //   text: 'trololo',
 //   roomname: '4chan'
 // };
->>>>>>> d9d8d5856b0c038bc70158c7bc43e3da1f639b70
