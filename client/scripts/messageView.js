@@ -8,10 +8,12 @@ var MessageView = {
   render: _.template(`
       <!--
       <div class="chat">
-        <div class="username"></div>
-        <div></div>
+        <div class="<%= userName %>"></div>
+        <div><%= messageText %></div>
       </div>
       -->
     `)
 
 };
+
+// MessageView.render(App.username)
